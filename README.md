@@ -1,23 +1,23 @@
-# 🚀 C++ Modules - Advanced Object-Oriented Programming
+# C++ Modules - Advanced Object-Oriented Programming
 
 📌 **42 School - C++ Specialization Track**  
 
-## 📝 Description
+## ▌ Description
 The **C++ Modules** series is a comprehensive deep dive into **Object-Oriented Programming (OOP)**, memory management, and advanced C++ features.  
 The goal of these modules is to progressively introduce **polymorphism, operator overloading, exceptions, STL, and advanced templates** while strictly following **C++98** standards.
 
-## 🔥 Key Concepts Covered
-✅ **Memory Management & Pointers**  
-✅ **Ad-hoc & Subtype Polymorphism**  
-✅ **Operator Overloading**  
-✅ **Exception Handling**  
-✅ **Abstract Classes & Interfaces**  
-✅ **Templates & STL (Standard Template Library)**  
+## ▌ Key Concepts Covered
+▸ **Memory Management & Pointers**  
+▸ **Ad-hoc & Subtype Polymorphism**  
+▸ **Operator Overloading**  
+▸ **Exception Handling**  
+▸ **Abstract Classes & Interfaces**  
+▸ **Templates & STL (Standard Template Library)**  
 
-## 🏆 Result: **100% Completion**
+## ▌ Result: **100% Completion**
 All **10 modules** were successfully completed, covering core and advanced C++ topics. 🎉
 
-## 📂 **Modules Overview**
+## ▌ **Modules Overview**
 | 📌 Module | Description |
 |----------|-------------|
 | **Module 00** ![Score](https://img.shields.io/badge/Completed-100%25-brightgreen) | Introduction to C++ - Namespaces, classes, member functions, and initialization lists |
@@ -31,26 +31,26 @@ All **10 modules** were successfully completed, covering core and advanced C++ t
 | **Module 08** ![Score](https://img.shields.io/badge/Completed-100%25-brightgreen)   | STL Containers, Iterators, and Algorithms |
 | **Module 09** ![Score](https://img.shields.io/badge/Completed-100%25-brightgreen)   | Advanced STL - Bitcoin Exchange, Reverse Polish Notation, Merge Sorting |
 
-## 📌 Example Implementations
-### 🔹 **Module 02 - Operator Overloading**
+## ▌ Example Implementations
+### ■ **Module 02 - Operator Overloading**
 - Implemented a **fixed-point arithmetic class** with overloaded operators.
 - Ensured proper **copy constructor, assignment operator, and destructor**.
 
-### 🔹 **Module 04 - Polymorphism**
+### ■ **Module 04 - Polymorphism**
 - Designed an **Animal hierarchy** using **abstract classes**.
 - Implemented **virtual destructors** and **dynamic binding**.
 
-### 🔹 **Module 08 - STL Algorithms**
+### ■ **Module 08 - STL Algorithms**
 - Created a **custom container manipulator**.
 - Implemented **iterators, algorithms (`find`, `sort`)**, and **custom comparator functions**.
 
-## 🚀 Compilation & Usage
-### 🛠 **Compile a Module**
+## ▌ Compilation & Usage
+### ■ **Compile a Module**
 ```sh
 make
 ``` 
 
-### ▶️ **Run an Example (e.g., Polymorphism)**
+### ■ **Run an Example (e.g., Polymorphism)**
 ```sh
 ./polymorphism  
 ```
