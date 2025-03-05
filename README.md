@@ -20,16 +20,16 @@ All **10 modules** were successfully completed, covering core and advanced C++ t
 ## 📂 **Modules Overview**
 | 📌 Module | Description |
 |----------|-------------|
-| **Module 00** \n ![Score](https://img.shields.io/badge/Completed-100%25-brightgreen) | Introduction to C++ - Namespaces, classes, member functions, and initialization lists |
-| **Module 01** | Memory allocation, pointers to members, references, and switch statements |
-| **Module 02** | Ad-hoc polymorphism, operator overloading, and Orthodox Canonical Form |
-| **Module 03** | Inheritance and class hierarchy |
-| **Module 04** | Abstract classes, interfaces, and subtype polymorphism |
-| **Module 05** | Exception handling and bureaucratic form processing |
-| **Module 06** | Type conversion and C++ casting (`static_cast`, `dynamic_cast`, `reinterpret_cast`, `const_cast`) |
-| **Module 07** | Function and class templates |
-| **Module 08** | STL Containers, Iterators, and Algorithms |
-| **Module 09** | Advanced STL - Bitcoin Exchange, Reverse Polish Notation, Merge Sorting |
+| **Module 00** ![Score](https://img.shields.io/badge/Completed-100%25-brightgreen) | Introduction to C++ - Namespaces, classes, member functions, and initialization lists |
+| **Module 01** ![Score](https://img.shields.io/badge/Completed-100%25-brightgreen)   | Memory allocation, pointers to members, references, and switch statements |
+| **Module 02** ![Score](https://img.shields.io/badge/Completed-100%25-brightgreen)   | Ad-hoc polymorphism, operator overloading, and Orthodox Canonical Form |
+| **Module 03** ![Score](https://img.shields.io/badge/Completed-100%25-brightgreen)   | Inheritance and class hierarchy |
+| **Module 04** ![Score](https://img.shields.io/badge/Completed-80%25-brightgreen)   | Abstract classes, interfaces, and subtype polymorphism |
+| **Module 05** ![Score](https://img.shields.io/badge/Completed-100%25-brightgreen)   | Exception handling and bureaucratic form processing |
+| **Module 06** ![Score](https://img.shields.io/badge/Completed-100%25-brightgreen)   | Type conversion and C++ casting (`static_cast`, `dynamic_cast`, `reinterpret_cast`, `const_cast`) |
+| **Module 07** ![Score](https://img.shields.io/badge/Completed-100%25-brightgreen)   | Function and class templates |
+| **Module 08** ![Score](https://img.shields.io/badge/Completed-100%25-brightgreen)   | STL Containers, Iterators, and Algorithms |
+| **Module 09** ![Score](https://img.shields.io/badge/Completed-100%25-brightgreen)   | Advanced STL - Bitcoin Exchange, Reverse Polish Notation, Merge Sorting |
 
 ## 📌 Example Implementations
 ### 🔹 **Module 02 - Operator Overloading**
