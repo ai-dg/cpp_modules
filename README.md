@@ -1,6 +1,5 @@
 # 🚀 C++ Modules - Advanced Object-Oriented Programming
 
-![Score](https://img.shields.io/badge/Completed-100%25-brightgreen)  
 📌 **42 School - C++ Specialization Track**  
 
 ## 📝 Description
@@ -21,7 +20,7 @@ All **10 modules** were successfully completed, covering core and advanced C++ t
 ## 📂 **Modules Overview**
 | 📌 Module | Description |
 |----------|-------------|
-| **Module 00** | Introduction to C++ - Namespaces, classes, member functions, and initialization lists |
+| **Module 00** ![Score](https://img.shields.io/badge/Completed-100%25-brightgreen) | Introduction to C++ - Namespaces, classes, member functions, and initialization lists |
 | **Module 01** | Memory allocation, pointers to members, references, and switch statements |
 | **Module 02** | Ad-hoc polymorphism, operator overloading, and Orthodox Canonical Form |
 | **Module 03** | Inheritance and class hierarchy |
