@@ -5,7 +5,7 @@
 ## ▌ Description
 The **C++ Modules** series is a comprehensive deep dive into **Object-Oriented Programming (OOP)**, memory management, and advanced C++ features.  
 The goal of these modules is to progressively introduce **polymorphism, operator overloading, exceptions, STL, and advanced templates** while strictly following **C++98** standards.
-<img width="1031" height="1648" alt="image" src="https://github.com/user-attachments/assets/c3138d7b-f2a9-4bbe-aac2-8892d5d0352c" />
+<!-- <img width="1031" height="1648" alt="image" src="https://github.com/user-attachments/assets/c3138d7b-f2a9-4bbe-aac2-8892d5d0352c" /> -->
 
 ```mermaid
 flowchart TB
