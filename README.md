@@ -6,6 +6,43 @@
 The **C++ Modules** series is a comprehensive deep dive into **Object-Oriented Programming (OOP)**, memory management, and advanced C++ features.  
 The goal of these modules is to progressively introduce **polymorphism, operator overloading, exceptions, STL, and advanced templates** while strictly following **C++98** standards.
 
+```mermaid
+flowchart TB
+    A[Module 00<br/>C++ Basics] --> B[Module 01<br/>Memory and References]
+    B --> C[Module 02<br/>Operator Overloading<br/>Canonical Form]
+    C --> D[Module 03<br/>Inheritance]
+    D --> E[Module 04<br/>Subtype Polymorphism<br/>Abstract Classes]
+    E --> F[Module 05<br/>Exceptions]
+    F --> G[Module 06<br/>Type Conversion<br/>Casts]
+    G --> H[Module 07<br/>Templates]
+    H --> I[Module 08<br/>STL Containers<br/>Iterators Algorithms]
+    I --> J[Module 09<br/>Advanced STL<br/>Applied Problems]
+
+    %% Cross-cutting skills
+    B --> K[Core Skill<br/>RAII and Memory Safety]
+    C --> L[Core Skill<br/>Rule of Three]
+    E --> M[Core Skill<br/>Virtual Dispatch]
+    I --> N[Core Skill<br/>Complexity and Iterators]
+
+    %% Styling
+    classDef basic fill:#4c72b0,color:#ffffff,stroke:#2c4a7a,stroke-width:2px;
+    classDef memory fill:#55a868,color:#ffffff,stroke:#2f6f46,stroke-width:2px;
+    classDef oop fill:#8172b2,color:#ffffff,stroke:#4b3f7a,stroke-width:2px;
+    classDef runtime fill:#dd8452,color:#ffffff,stroke:#8a4a24,stroke-width:2px;
+    classDef generic fill:#c44e52,color:#ffffff,stroke:#7a1f24,stroke-width:2px;
+    classDef stl fill:#7f7f7f,color:#ffffff,stroke:#4a4a4a,stroke-width:2px;
+
+    class A basic
+    class B,C memory
+    class D,E oop
+    class F,G runtime
+    class H generic
+    class I,J stl
+
+    class K,L,M,N stl
+
+```
+
 ## ▌ Key Concepts Covered
 ▸ **Memory Management & Pointers**  
 ▸ **Ad-hoc & Subtype Polymorphism**  
