@@ -52,7 +52,7 @@ flowchart TB
 ▸ **Abstract Classes & Interfaces**  
 ▸ **Templates & STL (Standard Template Library)**  
 
-## ▌ Result: **100% Completion**
+## ▌ Result: **All 10 modules validated**
 All **10 modules** were successfully completed, covering core and advanced C++ topics. 🎉
 
 ## ▌ **Modules Overview**
@@ -64,7 +64,7 @@ All **10 modules** were successfully completed, covering core and advanced C++ t
 | **Module 03** ![Score](https://img.shields.io/badge/Completed-100%25-brightgreen)   | Inheritance and class hierarchy |
 | **Module 04** ![Score](https://img.shields.io/badge/Completed-80%25-brightgreen)   | Abstract classes, interfaces, and subtype polymorphism |
 | **Module 05** ![Score](https://img.shields.io/badge/Completed-100%25-brightgreen)   | Exception handling and bureaucratic form processing |
-| **Module 06** ![Score](https://img.shields.io/badge/Completed-100%25-brightgreen)   | Type conversion and C++ casting (`static_cast`, `dynamic_cast`, `reinterpret_cast`, `const_cast`) |
+| **Module 06** ![Score](https://img.shields.io/badge/Completed-100%25-brightgreen)   | Type conversion and C++ casting (`static_cast`, `dynamic_cast`, `reinterpret_cast`) |
 | **Module 07** ![Score](https://img.shields.io/badge/Completed-100%25-brightgreen)   | Function and class templates |
 | **Module 08** ![Score](https://img.shields.io/badge/Completed-100%25-brightgreen)   | STL Containers, Iterators, and Algorithms |
 | **Module 09** ![Score](https://img.shields.io/badge/Completed-100%25-brightgreen)   | Advanced STL - Bitcoin Exchange, Reverse Polish Notation, Merge Sorting |
@@ -80,17 +80,17 @@ All **10 modules** were successfully completed, covering core and advanced C++ t
 
 ### ■ **Module 08 - STL Algorithms**
 - Created a **custom container manipulator**.
-- Implemented **iterators, algorithms (`find`, `sort`)**, and **custom comparator functions**.
+- Implemented **iterators**, a templated `easyfind`, and used **`std::sort`**.
 
 ## ▌ Compilation & Usage
-### ■ **Compile a Module**
+### ■ **Compile a Module** (each `CXX/exYY` folder has its own Makefile)
 ```sh
 make
 ``` 
 
 ### ■ **Run an Example (e.g., Polymorphism)**
 ```sh
-./polymorphism  
+cd C04/ex02 && make && ./abstract  
 ```
 
 ## 📜 License
