@@ -7,6 +7,7 @@ The **C++ Modules** series is a comprehensive deep dive into **Object-Oriented P
 The goal of these modules is to progressively introduce **polymorphism, operator overloading, exceptions, STL, and advanced templates** while strictly following **C++98** standards.
 <img src="assets/overview.png" alt="C++ Modules — overview" width="760">
 
+<!-- Old diagram, kept for reference; the overview image above replaces it.
 ```mermaid
 flowchart TB
     A[Module 00<br/>C++ Basics] --> B[Module 01<br/>Memory and References]
@@ -43,6 +44,7 @@ flowchart TB
     class K,L,M,N stl
 
 ```
+-->
 
 ## ▌ Key Concepts Covered
 ▸ **Memory Management & Pointers**  
